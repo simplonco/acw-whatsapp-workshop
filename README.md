@@ -118,15 +118,15 @@
     - Semantic UI: CSS library. CSS is hard, design is a field of its own, the most efficient we can do is use a good CSS library
       - [Semantic UI](http://semantic-ui.com/)
 - Installation and setup
-  - 1. install software
-    - 1. text editor (Sublime Text or other)
+  1. install software
+    1. text editor (Sublime Text or other)
       - [Sublime Text](http://www.sublimetext.com/)
-    - 2. Meteor.js (download, follow all steps, create account if you plan to use their free hosting)
+    2. Meteor.js (download, follow all steps, create account if you plan to use their free hosting)
       - [Meteor.js](http://www.meteor.com/)
-    - 3. browser (Google Chrome recommended because of developer tools)
-  - 2. set up your workspace
-    - 1. close all other programs (clean up your desk :))
-    - 2. open up text editor, terminal (Win + cmd), browser
+    3. browser (Google Chrome recommended because of developer tools)
+  2. set up your workspace
+    1. close all other programs (clean up your desk :))
+    2. open up text editor, terminal (Win + cmd), browser
 - "building" the app
   - create Meteor "scaffold"
     - in a terminal window, type `meteor create whatsapp-clone`
