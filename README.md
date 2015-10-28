@@ -162,9 +162,13 @@
         - adding user accounts
         - fixing bugs
 - Appendix: How to find answers effectively
-  - tutorials
-  - books
-  - references
+  - where to look?
+    - tutorials
+      - good for an overview, but only useful for making your own - tutorials are exercises, not guides
+      - make them your own: as you follow along, select piece and reformulate: most tutorials have extra cruft (i.e. they are not general enough), so you have to sort trough
+    - books
+      - programming books that teach you programming or help you understand how to solve programming problems are rare. Most programming books are overviews of a given language or platform, with some examples sprinkled on
+    - references
   - making good searches
     - keywords
     - general is better than specific
